@@ -30,3 +30,4 @@ This notebook demonstrates how to read, write, query and perform geospatial calc
 ## Dataset
 * [Metro Regional Parcel Dataset](ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metrogis/plan_regional_parcels/shp_plan_regional_parcels.zip)
 * [Lakes and Rivers - Open Water Features](ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/water_lakes_rivers/shp_water_lakes_rivers.zip)
+* [Cedar Lake Quality](https://raw.githubusercontent.com/prabodhw96/Geospatial-Analysis/master/cedar_lake_qual.csv)
